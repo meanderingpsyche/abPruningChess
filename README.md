@@ -2,9 +2,13 @@
 minimax alpha beta pruning, gui chess 
 EvoPawness Game
 Based on the article
+
 Part 1: https://towardsdatascience.com/create-your-own-board-game-with-powerful-ai-from-scratch-part-1-5dcb028002b8
+
 Part 2: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-minimax-part-2-517e1c1e3362
+
 Part 3: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-alpha-zero-part-3-f22761372245
+
 
 This repository has the documentation almost all of functions. Hope that it will make you understand better.
 
